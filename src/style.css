@@ -120,6 +120,22 @@ footer {
   padding: 20px;
 }
 
+footer a {
+  text-decoration: none;
+  color: #33302e;
+}
+
+footer a:hover {
+  text-decoration: underline;
+  color: #e77b79;
+}
+
+.footer-title {
+  font-size: 20px;
+  font-weight: 500;
+  padding: 20px;
+}
+
 .designer-text {
   font-family: "Qwitcher Grypen", cursive;
   font-weight: 700;
