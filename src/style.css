@@ -173,3 +173,16 @@ footer a:hover {
   outline: 0 !important;
   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0) !important;
 }
+
+.accordion-body {
+  margin-top: -20px;
+  margin-bottom: 10px;
+}
+
+.accordion a:hover {
+  opacity: 0.5;
+}
+
+.accordion p {
+  font-size: 14px;
+}
