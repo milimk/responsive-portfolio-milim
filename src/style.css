@@ -25,6 +25,11 @@ h3 {
   font-size: 40px;
 }
 
+.h2-text-small {
+  font-size: 20px;
+  font-style: italic;
+}
+
 .h3-text {
   font-size: 23px;
   opacity: 0.7;
@@ -184,5 +189,9 @@ footer a:hover {
 }
 
 .accordion p {
+  font-size: 14px;
+}
+
+.accordion li {
   font-size: 14px;
 }
